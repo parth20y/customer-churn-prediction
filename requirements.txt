@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+jupyter
+imbalanced-learn
+snowflake-connector-python
+boto3
